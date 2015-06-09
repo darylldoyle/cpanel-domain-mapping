@@ -3,7 +3,7 @@
 Plugin Name: Domain Mapping cPanel
 Plugin URI:  http://enshrined.co.uk
 Description: Add a mapped domain to cPanel as a parked domain
-Version:     0.0.1
+Version:     1.0.0
 Author:      Daryll Doyle
 Author URI:  http://enshrined.co.uk
 Text Domain: domain-mapping-cpanel
